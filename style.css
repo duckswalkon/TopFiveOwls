@@ -1,0 +1,114 @@
+body {
+    background-image: url(images/royalty.jpg);
+}
+
+
+
+.type {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.795);
+    height: 202px;
+    text-align: center;
+}
+
+nav {
+    background-color: green;
+    height: 40px;
+    padding-top: 10px;
+    text-align: center;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+nav a:hover {
+    color: red;
+    }
+
+main {
+    background-color: rgba(0, 0, 0, 0.76);
+    height: 130px;
+    text-align: center;
+    padding-left: 240px;
+    padding-right: 240px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+footer {
+    background-color: green;
+    font-size: 20px;
+    height: 40px;
+}
+
+
+h1 {
+    font-size: 20px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+p {
+    font-size: 12px;
+    color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    font-size: 12px;
+    color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding-top: 360px;
+}
+
+h3 {
+    font-size: 12px;
+    color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+
+h4 {
+    font-size: 12px;
+    color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center; 
+}
+
+div {
+    border: dotted;
+    width: 2px;
+    height: 100px;
+}
+
+nav a {
+   font-size: 20px;
+}
+
+
+footer p{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding-top: 11px;
+}
+
+
+
+
+
+
+
+
+
